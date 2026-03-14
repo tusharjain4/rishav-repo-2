@@ -1,0 +1,23 @@
+{
+  "name": "Rishav Kumar",
+  "role": "Developer",
+  "tagline": "Building innovative digital solutions with precision and expertise.",
+  "heroImageUrl": "https://static.wikia.nocookie.net/farcry/images/4/40/Ajay2.jpg/revision/latest?cb=20160921024231",
+  "about": "Rishav Kumar is a dedicated developer focused on creating efficient, scalable software solutions. With a passion for clean code and modern architecture, he transforms complex problems into intuitive user experiences.",
+  "experience": 3,
+  "currentRole": "i have many role",
+  "highlights": [
+    "Acheviment111212"
+  ],
+  "skills": [],
+  "projects": [
+    {
+      "name": "YOS",
+      "description": "A robust application designed to streamline workflows and deliver high-performance results through intuitive architecture.",
+      "tech": []
+    }
+  ],
+  "contact": {
+    "email": "rishav@adizen.ai"
+  }
+}
